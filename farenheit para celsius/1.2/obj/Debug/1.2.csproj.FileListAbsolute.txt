@@ -1,0 +1,36 @@
+R:\1.2\1.2\bin\Debug\1.2.exe.config
+R:\1.2\1.2\obj\Debug\1.2.csprojResolveAssemblyReference.cache
+R:\1.2\1.2\bin\Debug\1.2.exe
+R:\1.2\1.2\bin\Debug\1.2.pdb
+R:\1.2\1.2\obj\Debug\1.2.exe
+R:\1.2\1.2\obj\Debug\1.2.pdb
+R:\trabalho\metros para cm\1.2\bin\Debug\1.2.exe.config
+R:\trabalho\metros para cm\1.2\obj\Debug\1.2.exe
+R:\trabalho\metros para cm\1.2\obj\Debug\1.2.pdb
+R:\trabalho\metros para cm\1.2\bin\Debug\1.2.exe
+R:\trabalho\metros para cm\1.2\bin\Debug\1.2.pdb
+R:\trabalho\metros para cm\1.2\obj\Debug\1.2.csprojResolveAssemblyReference.cache
+R:\trabalho\raio de um circulo\1.2\bin\Debug\1.2.exe.config
+R:\trabalho\raio de um circulo\1.2\obj\Debug\1.2.exe
+R:\trabalho\raio de um circulo\1.2\obj\Debug\1.2.pdb
+R:\trabalho\raio de um circulo\1.2\bin\Debug\1.2.exe
+R:\trabalho\raio de um circulo\1.2\bin\Debug\1.2.pdb
+R:\trabalho\raio de um circulo\1.2\obj\Debug\1.2.csprojResolveAssemblyReference.cache
+R:\trabalho\area de um quadrado e o dobro\1.2\bin\Debug\1.2.exe.config
+R:\trabalho\area de um quadrado e o dobro\1.2\obj\Debug\1.2.exe
+R:\trabalho\area de um quadrado e o dobro\1.2\obj\Debug\1.2.pdb
+R:\trabalho\area de um quadrado e o dobro\1.2\obj\Debug\1.2.csprojResolveAssemblyReference.cache
+R:\trabalho\area de um quadrado e o dobro\1.2\bin\Debug\1.2.exe
+R:\trabalho\area de um quadrado e o dobro\1.2\bin\Debug\1.2.pdb
+R:\trabalho\salario\1.2\bin\Debug\1.2.exe.config
+R:\trabalho\salario\1.2\obj\Debug\1.2.exe
+R:\trabalho\salario\1.2\obj\Debug\1.2.pdb
+R:\trabalho\salario\1.2\bin\Debug\1.2.exe
+R:\trabalho\salario\1.2\bin\Debug\1.2.pdb
+R:\trabalho\salario\1.2\obj\Debug\1.2.csprojResolveAssemblyReference.cache
+R:\trabalho\celsius para farenheit\1.2\bin\Debug\1.2.exe.config
+R:\trabalho\celsius para farenheit\1.2\obj\Debug\1.2.exe
+R:\trabalho\celsius para farenheit\1.2\obj\Debug\1.2.pdb
+R:\trabalho\celsius para farenheit\1.2\obj\Debug\1.2.csprojResolveAssemblyReference.cache
+R:\trabalho\celsius para farenheit\1.2\bin\Debug\1.2.exe
+R:\trabalho\celsius para farenheit\1.2\bin\Debug\1.2.pdb
